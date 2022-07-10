@@ -2,7 +2,7 @@
 
 A DAO of unbiased, unpredictable, on-chain randomness
 
-**Currently, there are very few to no participant in the DAO, we suggest you to deploy the contracts on your own to try it out**. Resources about this can be found at https://github.com/unpredictabledao/unpredictabledao-contracts
+**Currently, there are very few to no participant in the DAO, we suggest you to deploy the contracts on your own to try it out**. Resources about this can be found at https://github.com/unpredictabledao/unpredictabledao-contracts. Tutorials on deploying contracts to ICE's Arctic Testnet, Acala's Mandala Testnet and Astar's Shibuya Testnet are also there.
 
 ## Links
 
